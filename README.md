@@ -1,4 +1,6 @@
 🌎 AgroSat Web – Monitoramento Espacial
+
+
 📌 Resumo do Projeto
 O AgroSat Web é um protótipo desenvolvido para a Global Solution 1 – Space Connect, com o objetivo de conectar dados espaciais e climáticos aos desafios do agronegócio brasileiro.
 A solução oferece um dashboard interativo que integra:
